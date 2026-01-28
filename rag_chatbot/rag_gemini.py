@@ -110,6 +110,7 @@ Question:
 
         answer = rag_qa(q)
         print("\nBot:", answer, "\n")
+
 # alias biar compatible sama main.py
-#def tanya(pertanyaan: str) -> str:
+def tanya(pertanyaan: str) -> str:
     return rag_qa(pertanyaan)

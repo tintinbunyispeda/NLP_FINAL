@@ -4,4 +4,7 @@ faiss-cpu
 sentence-transformers
 google-generativeai
 python-dotenv
-
+fastapi 
+uvicorn 
+pydantic 
+python-multipart
